@@ -1,6 +1,3 @@
-import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
-import About from "./About";
-
 export default function HomePage(){
 return(
         <div className="body-div">
